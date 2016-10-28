@@ -9,7 +9,7 @@ Pvbrowser is a great piece of software, but it's modbus communications are so si
 
 So here we can find these kind of functions with others I usually need in a common industrial application.
 
-It's licensed with a GPLv3 or later license, I know it could be negative for lots of people :-D but what I look for is not to share a world wide tool, is to share an useful tool for only free as in freedom projects, to improve and help only collaborative, social friendly commercial projects. (as I try to develop!)
+It's licensed with a GPLv2 or later license, I know it could be negative for lots of people :-D but what I look for is not to share a world wide tool, is to share an useful tool for only free as in freedom projects, to improve and help only collaborative, social friendly commercial projects. (as I try to develop!)
 
 ##2 Compile and installation
 
@@ -31,7 +31,7 @@ export LD_LIBRARY_PATH=(path-to-gStools):$LD_LIBRARY_PATH
 
 ##3 License
 
-gStools is licensed under GPLv3 or later
+gStools is licensed under GPLv2 or later
 
 
 ##4 Contact
